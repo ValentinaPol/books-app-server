@@ -1,4 +1,4 @@
-# books приложения, с подключением node.js(серверной части), и подключением базы данных(MongoDB)
+# quests приложения, с подключением node.js(серверной части), и подключением базы данных(MongoDB)
 
 # Node.js Express & MongoDB: CRUD Rest APIs
 

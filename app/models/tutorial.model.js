@@ -1,9 +1,16 @@
 module.exports = mongoose => {
   var schema = mongoose.Schema(
     {
-      bookName: String,
-      bookPrice: Number,
-      bookPicture: Number
+      title: String,
+      description: String,
+      pos: Number,
+      type: String,
+      players: String,
+      time: String,
+      age: String,
+      price: String,
+      url: String,
+      tags: Object
     },
     { timestamps: true }
   );
